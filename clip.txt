@@ -1,0 +1,7 @@
+Clip moments (Fallout 4 Takeover):
+1. [x] 0-5 s: green wasteland haze, "WAR NEVER CHANGES" title, the Vault Kid thumbs-up, a Super Mutant and Radroaches rush the player.
+2. [x] Player shoots the mutant: pain, gibs, it dies and drops bottle caps, a Stimpak and a Nuka-Cola; the CAPS/LVL/XP line counts up.
+3. [x] A floating Mr. Handy hurls flames at the player; the nailgun kills it and it blows up.
+4. [x] Fat Man mini-nuke fired at a group (Deathclaw, mutant, roaches): mushroom cloud, flying gibs, lingering radiation that hurts monsters.
+5. [x] LEVEL UP popup with the Vault Kid and a perk, then V.A.T.S. slow motion on a big kill.
+Weak: the demo player sometimes faces a rock wall between fights (the kit pilot explores when nothing is in sight).

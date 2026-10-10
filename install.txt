@@ -1,0 +1,1 @@
+Copy the mod folder into your Quake folder (next to id1) as "sigf", then start Quake with the argument -game sigf and load the map lq_e0m1 (needs LibreQuake data and the Ironwail engine). Fire the rocket launcher for the Fat Man nuke.
